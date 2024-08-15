@@ -18,3 +18,5 @@ Are you ready for the world mapping challenge? For thirty one days we will work 
 The idea is to improve OpenStreetMap data on a daily basis to the extent included in the daily task prepared for each day of October using the hashtag #Maptober in the description of the set of changes. And publishing a link to your set of changes with the same hashtag on any social media.
 
 We are launching on **01/10/2024!** Join our community and start mapping the world with us.
+
+![Logo](https://github.com/openstreetmap-polska/maptober/blob/main/src/img/hd_img_1.png)
